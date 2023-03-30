@@ -1,0 +1,27 @@
+
+[{
+		"id": "Little Mix Fini",
+		"Foto": "chuches1.png",
+		"Descripción": "Mix de chuches Fini, fecha de caducidad: 19/03/2024."
+	},
+	{
+		"id": "Ositos de oro Haribo",
+		"Foto": "OsitosdeOro.png",
+		"Descripción": "Ositos de oro Haribo, fecha de caducidad: 25/07/2025."
+	},
+	{
+		"id": "Regalices Miguelañez",
+		"Foto": "gelesdulces.png",
+		"Descripción": "Regalices Miguelañez, fecha de caducidad:3/02/2024."
+	},
+	{
+		"id": "Nubes Vidal",
+		"Foto": "nubesvidal.png",
+		"Descripción": "Nubes de la marca Vidal, fecha de caducidad: 10/10/2023."
+	},
+	{
+		"id": "Fresas pica pica Vidal",
+		"Foto": "fresaspicapica.png",
+		"Descripción": "Fresas pica pica de la marca Vidal, fecha de caducidad: 19/09/2027"
+	}
+]
