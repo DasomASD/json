@@ -1,0 +1,32 @@
+
+[{
+		"id": "Cereales Lion",
+		"Foto": "cerealeslion.png",
+		"Descripción": "Cereales Lion de caramelo y chocolate, Nestle, fecha de caducidad: 4/08/2025."
+	},
+	{
+		"id": "Cereales Original Fitness Maxi pack",
+		"Foto": "cerealesfitness.png",
+		"Descripción": "Cereales Original Fitness, marca Nestle, fecha de caducidad: 2/07/2030."
+	},
+	{
+		"id": "Cereales Frosties",
+		"Foto": "frosties.avif.png",
+		"Descripción": "Cereales Frosties, marca Kelloggs, fecha de caducidad:14/10/2024."
+	},
+	{
+		"id": "Cereales Cheerios",
+		"Foto": "cheerios.png",
+		"Descripción": "Cereales Cheerios de avena, marca Nestle, fecha de caducidad: 1/1/2023."
+	},
+	{
+		"id": "Cereales Dinosaurus",
+		"Foto": "dinosaurus.png",
+		"Descripción": "Cereales Dinosaurus, marca Artiach, fecha de caducidad: 16/09/2025"
+	},
+	{
+		"id": "Cereales Choco flakes",
+		"Foto": "chocoflakes.png",
+		"Descripción": "Cereales Choco flakes, marca Cuétara, fecha de caducidad: 6/05/2026"
+	}
+]
