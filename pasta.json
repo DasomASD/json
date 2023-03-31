@@ -1,0 +1,23 @@
+
+[{
+		"id": "Spaghetti n.5 Barilla",
+		"Foto": "pasta1.png",
+		"Descripción": "Spaghetti n.5 Barilla , fecha de consumo preferente:09/2025."
+	},
+	{
+		"id": "Macarrones Gallo nº6",
+		"Foto": "pasta2.png",
+		"Descripción": "Macarrones nº6 de la marca Gallo, fecha de consumo preferente 10/2023."
+	},
+	{
+		"id": "Pasta Tiburón Gallo nº0",
+		"Foto": "pasta3.png",
+		"Descripción": "Pasta Tiburón de la marca Gallo nº0, fecha de consumo preferente: 01/2027."
+	},
+	{
+		"id": "Gnocchi Barilla",
+		"Foto": "pasta41.png",
+		"Descripción": "Gnocchi de la marca Barilla, fecha de consumo preferente: 12/2023."
+	}
+	
+]
