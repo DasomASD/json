@@ -1,0 +1,23 @@
+
+[{
+		"id": "Garbanzos lechosos Hacendado",
+		"Foto": "legumbres1.png",
+		"Descripción": "Garbanzos lechosos de la marca Hacendado, no tiene fecha de caducidad."
+	},
+	{
+		"id": "Lenteja Pardina Luengo",
+		"Foto": "legumbre2.jpg",
+		"Descripción": "Lenteja Pardina de la marca Luengo, no tiene fecha de caducidad."
+	},
+	{
+		"id": "Alubia granja Luengo",
+		"Foto": "legumbres3.png",
+		"Descripción": "Alubias de la marca Luengo, no tiene fecha de caducidad."
+	},
+	{
+		"id": "Garbanzos en lata Luengo",
+		"Foto": "legumbres4.png",
+		"Descripción": "Garbanzos en lata de la marca Luengo, no tiene fecha de caducidad."
+	}
+	
+]
