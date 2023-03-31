@@ -1,0 +1,32 @@
+
+[{
+		"id": "Leche entera La Asturiana",
+		"Foto": "leche1.png",
+		"Descripción": "Leche entera La Asturiana, fecha de caducidad: 15/10/2023."
+	},
+	{
+		"id": "Queso Mozzarella Sin lactosa La Asturiana",
+		"Foto": "lacteo2.jpg",
+		"Descripción": "Queso Mozzarella sin lactosa de la marca La Asturiana, fecha de caducidad: 14/02/2024."
+	},
+	{
+		"id": "Leche desnatada Pascual",
+		"Foto": "leche3.png",
+		"Descripción": "Leche desnatada de la marca Pascual, fecha de caducidad:13/05/2023."
+	},
+	{
+		"id": "Leche sin lactosa Puleva",
+		"Foto": "leche4.png",
+		"Descripción": "Leche sin lactosa de la marca Puleva, fecha de caducidad: 1/01/2025."
+	},
+	{
+		"id": "Queso para fundir y gratinar Président",
+		"Foto": "lacteo5.png",
+		"Descripción": "Queso para fundir y gratinar de 4 quesos Président, fecha de caducidad: 10/09/2027"
+	},
+	{
+		"id": "Leche entera Pascual",
+		"Foto": "lacteo6.png",
+		"Descripción": "Leche entera de la marca Pascual, fecha de caducidad: 10/11/2027"
+	}
+]
